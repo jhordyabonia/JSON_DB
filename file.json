@@ -1,36 +1,5 @@
 {
     "name": "file",
-    "data": [
-        {
-            "id": 1,
-            "name": "none0"
-        },
-        {
-            "id": 2,
-            "name": "none1"
-        },
-        {
-            "id": 3,
-            "name": "none2"
-        },
-        {
-            "id": 4,
-            "name": "test0"
-        },
-        {
-            "id": 5,
-            "name": "test1"
-        },
-        {
-            "id": 6,
-            "name": "test2"
-        },
-        {
-            "id": 7,
-            "color": "#00FF00",
-            "name": "green",
-            "opacity": 0.1
-        }
-    ],
-    "rows": 7
+    "data": [],
+    "rows": 0
 }
