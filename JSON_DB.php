@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  @class JSON_DD
+ *  @class JSON_DB
  *  @description:  Interface to storage  and maneger the data a file format *.json
  *  @author Jhordy Abnia G. <jhordy.abonia@gmail.com>
  */
